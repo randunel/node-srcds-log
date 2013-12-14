@@ -1,0 +1,19 @@
+{
+    "author": "Mihai Ene <dkrandu@yahoo.com>",
+        "name": "srcds-log",
+        "description": "A node.js handler for SRCDS logs",
+        "keywords": ["valve", "srcds", "hlds", "log", "half", "life", "counter", "strike"],
+        "version": "1.0.0-rc1",
+        "homepage": "https://github.com/randunel/node-srcds-log",
+        "repository": {
+            "type": "git",
+            "url": "https://github.com/randunel/node-srcds-log"
+        },
+        "main": "./index",
+        "engines": {
+            "node": "*"
+        },
+        "dependencies": {},
+        "devDependencies": {},
+        "optionalDependencies": {}
+}
